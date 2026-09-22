@@ -1,0 +1,19 @@
+# Jupyter Notebook checkpoints and autosaves
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/
+
+# IPython notebook checkpoints
+.ipython/
+
+# Profile directories (if using custom profiles)
+profile_default/
+
+
+
+# If you want to ignore notebook output/caches but keep the code
+.pytest_cache/
+.virtual_documents/
+anaconda_projects/
+
+# Ignore virtual environments
+
